@@ -1,0 +1,23 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go specific
+*.test
+*.out
+go.work
+
+# IDE
+.idea/
+.vscode/
+
+# OS specific
+.DS_Store
+
+# Project specific
+uploads/
+tmp/
+.env
